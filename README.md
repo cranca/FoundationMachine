@@ -5,7 +5,7 @@ Tema basado en Foundation4 para OrchardCMS
 
 Versión 0.0.1
 
-Este es el primer tema que hago para Orchard y está construido usando TheThemMachine (el tema por defecto en Orchard) como base. 
+Este es el primer tema que hago para Orchard y está construido usando TheThemeMachine (el tema por defecto en Orchard) como base. 
 
 ## Instalación
 
