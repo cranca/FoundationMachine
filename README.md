@@ -9,7 +9,7 @@ Este es el primer tema que hago para Orchard y está construido usando TheThemMa
 
 ## Instalación
 
-Descarga el paquete y descomprimelo en /Themes de tu instalación de Orchard CMS. Activalo en la configuración de temas de tu panel de control y ya estará listo para usar.
+Descarga el paquete y descomprímelo en /Themes de tu instalación de Orchard CMS. Activalo en la configuración de temas de tu panel de control y ya estará listo para usar.
 
 ## Personalización
 
