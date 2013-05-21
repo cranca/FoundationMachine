@@ -18,5 +18,17 @@
     }
     var body = new HtmlString(bodyHtml); 
 }
-<p>@body</p> 
-<a class="button" href="@Url.ItemDisplayUrl(contentItem)">More »</a>
+
+<div class="summary">
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="featured-text">
+                @body
+            </div>
+            <p>
+                <a class="button" href="@Url.ItemDisplayUrl(contentItem)">More »</a>
+            </p>
+        </div>
+        <hr/>
+    </div>
+</div>
