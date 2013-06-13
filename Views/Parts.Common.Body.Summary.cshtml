@@ -19,16 +19,14 @@
     var body = new HtmlString(bodyHtml); 
 }
 
-<div class="summary">
     <div class="row">
         <div class="large-12 columns">
-            <div class="featured-text">
+            <div>
                 @body
             </div>
             <p>
-                <a class="button" href="@Url.ItemDisplayUrl(contentItem)">More »</a>
+                <a class="button secondary" href="@Url.ItemDisplayUrl(contentItem)">More »</a>
             </p>
         </div>
         <hr/>
     </div>
-</div>
